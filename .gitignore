@@ -4,3 +4,4 @@
 *.lk
 *.zip
 test.md
+node_modules
